@@ -1,0 +1,1 @@
+# K8s resources for redist-guestbook deployment
